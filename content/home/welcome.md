@@ -21,4 +21,4 @@ design:
 
 We are a group of Blockchain enthusiasts aiming to unite the blockchain community of IIT Roorkee, in a highly collaborative environment that is open for all.
 
-We are always open to collaborations on fun projects, and quirky discussions on crypto, Defi, Web3.0 and beyond.The has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+We are always open to collaborations on fun projects, and quirky discussions on crypto, Defi, Web3.0 and beyond.
